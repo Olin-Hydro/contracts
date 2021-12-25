@@ -1,2 +1,2 @@
-# contracts
+# mycelium
 Smart contracts for hydro
